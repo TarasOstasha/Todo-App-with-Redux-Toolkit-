@@ -1,0 +1,12 @@
+$base-error: coral;
+$base-success: aquamarine;
+
+.errorDiv {
+  color: $base-error;
+}
+.valid {
+  background-color: $base-success;
+}
+.invalid {
+  background-color: $base-error;
+}
